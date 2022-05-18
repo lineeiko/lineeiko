@@ -9,7 +9,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lineeiko&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-    <img align="right" alt=Line-pic" height="200" style="border-radius:50px;" src="https://user-images.githubusercontent.com/104697385/169101953-d8c90470-1ed4-4b24-9f19-a19f09a5821a.png">
+    <img align="right" alt=Line-pic" height="300" style="border-radius:70px;" src="https://user-images.githubusercontent.com/104697385/169101953-d8c90470-1ed4-4b24-9f19-a19f09a5821a.png">
 </div>
   
   ##
