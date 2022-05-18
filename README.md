@@ -11,8 +11,6 @@
   <div style="display: inline_block"><br>
     <img align="right" alt=Line-pic" height="400"style="border-radius:60px;" src="https://user-images.githubusercontent.com/104697385/169101953-d8c90470-1ed4-4b24-9f19-a19f09a5821a.png">
 </div>
-  
-  ##
  
 <div> 
    <a href = "mailto:lineeiko@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
