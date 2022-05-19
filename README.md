@@ -29,5 +29,6 @@
  
  </div>
  
- ![Snake animation](https://github.com/seu-usuário-aqui/lineeiko/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/lineeiko/lineeiko/blob/output/github-contribution-grid-snake.svg)
+
 
